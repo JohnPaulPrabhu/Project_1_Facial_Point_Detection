@@ -1,4 +1,4 @@
-# Facial KayPoint Detection
+# Facial KeyPoint Detection
 This project is part of the [Computer Vision Nanodegree Program](https://www.udacity.com/course/computer-vision-nanodegree--nd891) from Udacity. In this project I used a deep learning architecture to build a facial keypoint detecction system.
 
 ## Dataset
